@@ -13,7 +13,6 @@ app = Pyrogram.app
 
 import os
 import sys
-import Config
 import datetime
 import traceback
 from pyrogram import filters
