@@ -10,6 +10,7 @@ class Pyrogram:
         in_memory=True
     )
 app = Pyrogram.app
+Database = {"mongo": None}
 
 import os
 import sys
